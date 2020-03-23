@@ -1,1 +1,1 @@
-learn git and github from zero
+learn git and github for worst branch
